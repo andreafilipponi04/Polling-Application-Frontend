@@ -34,10 +34,10 @@ Il frontend è volutamente minimale e privo di layer di build complessi (Node.js
 
 ```text
 Polling-Application-Frontend/
-├── index.html   # Struttura e layout della pagina (inclusi i componenti Bootstrap)
-├── style.css    # Personalizzazioni grafiche e layout del Logger API
-├── script.js    # Logica dell'applicazione, gestione stato e chiamate fetch a Django
-└── README.md    # Questo file di istruzioni
+├── index.html   
+├── style.css    
+├── script.js    
+└── README.md    
 ```
 
 ---
