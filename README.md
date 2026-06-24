@@ -1,7 +1,7 @@
 # 🎨 Polling Application Frontend
 
 **Studente:** Andrea Filipponi  
-**Project type:** Frontend Client
+**Project type:** Frontend Client  
 **Repository Frontend:** [https://github.com/andreafilipponi04/Polling-Application-Frontend](https://github.com/andreafilipponi04/Polling-Application-Frontend)  
 **Repository Backend:** [https://github.com/andreafilipponi04/Polling-Application-API](https://github.com/andreafilipponi04/Polling-Application-API)  
 
