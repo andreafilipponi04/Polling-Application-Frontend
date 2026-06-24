@@ -4,6 +4,7 @@
 **Project type:** Frontend Client  
 **Repository Frontend:** [https://github.com/andreafilipponi04/Polling-Application-Frontend](https://github.com/andreafilipponi04/Polling-Application-Frontend)  
 **Repository Backend:** [https://github.com/andreafilipponi04/Polling-Application-API](https://github.com/andreafilipponi04/Polling-Application-API)  
+> ⚠️ **Nota sul Deployment (Render Free Tier):** L'API è ospitata sul piano gratuito di Render. Se il server non riceve richieste per 15 minuti, entra automaticamente in modalità "sospensione". Di conseguenza, la **prima richiesta**  potrebbe richiedere circa 50-60 secondi per "risvegliare" l'applicazione. Le richieste successive saranno totalmente immediate.
 
 ## 📖 Descrizione
 
