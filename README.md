@@ -2,7 +2,6 @@
 
 **Studente:** Andrea Filipponi  
 **Project type:** Front-end demo client  
-**Framework / Stack:** HTML, CSS, JavaScript  
 **Back-end API repository:** [https://github.com/andreafilipponi04/Polling-Application-API.git](https://github.com/andreafilipponi04/Polling-Application-API.git) 
 
 ## Descrizione
